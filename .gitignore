@@ -32,7 +32,6 @@ nosetests.xml
 node_modules/
 # package-lock.json
 # dapp/package-lock.json
-dapp/src/bundles
 
 # Compass
 .sass-cache
